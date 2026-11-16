@@ -1,0 +1,2 @@
+# Early-Prediction-Framework-for-Urban-Flooding-using-Heterogeneous-Environmental-Data
+This project develops a deep learning framework for early urban flood prediction using heterogeneous data: rainfall, sensors, terrain and land use. A CNN + LSTM attention fusion model predicts flood occurrence and depth 1, 3 and 6 hours ahead, reaching F1 of 0.83, 0.72 and 0.51 on simulated data and outperforming LSTM-only and rule-based baselines.
